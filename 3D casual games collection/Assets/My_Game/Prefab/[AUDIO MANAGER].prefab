@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6643061077925168103
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6643061077925168102}
+  - component: {fileID: 6643061077925168097}
+  m_Layer: 0
+  m_Name: '[AUDIO MANAGER]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6643061077925168102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6643061077925168103}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6643061077925168097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6643061077925168103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd116004bae50464a987608f5692c75b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  typescene: 2
+  sounds:
+  - name: SoundMenu
+    clip: {fileID: 8300000, guid: 72bfb55fe51d39b449d8437fd37c1f1d, type: 3}
+    volume: 0.04
+    pitch: 1
+    loop: 1
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: Sound3dMegaCube
+    clip: {fileID: 8300000, guid: 61872b382fb617f4faa39bf24055a8d6, type: 3}
+    volume: 0.04
+    pitch: 1
+    loop: 1
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: SoundRollerSplat
+    clip: {fileID: 8300000, guid: b76dee63927eec549ab421da21568d8c, type: 3}
+    volume: 0.04
+    pitch: 1
+    loop: 1
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: SoundColorHole
+    clip: {fileID: 8300000, guid: 2986f33252e198e41ba0b7798335f690, type: 3}
+    volume: 0.05
+    pitch: 1
+    loop: 1
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: Click
+    clip: {fileID: 8300000, guid: b1b60705f23c35b44a8423c6d3d21945, type: 3}
+    volume: 0.1
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: ShowLanguagePanel
+    clip: {fileID: 8300000, guid: 7f50b82cc3b12704dba96401a8c86555, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: MegaCubeShowPanel
+    clip: {fileID: 8300000, guid: 1d790bf50265a384dbc0128b7da07d10, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: MegaCubeGameOver
+    clip: {fileID: 8300000, guid: 9817fd93fec8f3b4fbfc42c60d01ba1e, type: 3}
+    volume: 0.12
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: MegaCubeWinProgressBar
+    clip: {fileID: 8300000, guid: d0743d26c77bc1e4c84aac2b0ab15bc7, type: 3}
+    volume: 0.12
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: MegaCubeShootCube
+    clip: {fileID: 8300000, guid: c16c4476bf0b64946a2eecd4b009ddf7, type: 3}
+    volume: 0.2
+    pitch: 0.4
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: MegaCubeDestroyCube
+    clip: {fileID: 8300000, guid: 6c0c07e2609ffb849ad4dc5666976265, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: ColorHoleTighteningObject
+    clip: {fileID: 8300000, guid: a48aedb9915b2a548b394d0b7c0a35fd, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: ColorHoleShootFirework
+    clip: {fileID: 8300000, guid: 93d18b7609739774d829fd35d4f24c16, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: ColorHoleExplosionFirework
+    clip: {fileID: 8300000, guid: 7104152a1f536b0428654a01c64692da, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: ColorHoleGameOver
+    clip: {fileID: 8300000, guid: 0246893ee6b61a6418a21868db7a2b4b, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: ColorHoleWinGame
+    clip: {fileID: 8300000, guid: 509d23edfe3ad824bb398e51077259c1, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: RollerSplatColorGround
+    clip: {fileID: 8300000, guid: d541a01e2c6588f46a56d27720e28928, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: RollerSplatMove
+    clip: {fileID: 8300000, guid: 1d070e29658c21540891c7f2b74485a6, type: 3}
+    volume: 0.15
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: RollerSplatNotMoreLevels
+    clip: {fileID: 8300000, guid: a0ca98a61494a04428566451e766dee9, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}
+  - name: RollerSplatWin
+    clip: {fileID: 8300000, guid: 0c8adb91cb292a74ab46cedb398f8d1c, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    playOnAwake: 0
+    source: {fileID: 0}

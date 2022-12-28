@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Drop_The_Number_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 00e9280c3e1d24b4ab5ab9eb277671c5, type: 3}
+    - {fileID: 2800000, guid: 55e5221099dbe6a4f88cc71e67bcdd4f, type: 3}
+    - {fileID: 2800000, guid: 3fc541ef3dcd15d42b3bbe7320a59465, type: 3}
+    - {fileID: 2800000, guid: 0baee9240a3c3454abc18b2da8ea822e, type: 3}
+    - {fileID: 2800000, guid: bbaa182db95ca014ebdb9c6c50de3a8e, type: 3}
+    - {fileID: 2800000, guid: 7db6c7cb50041144a88e08ac62bb7d02, type: 3}
+    - {fileID: 2800000, guid: 898997bc28b4c984e9a4d024366076b0, type: 3}
+    - {fileID: 2800000, guid: 76d3f905080f706498e5df7b85be7885, type: 3}
+    - {fileID: 2800000, guid: 1b23abbdcab316e43be6a25e910e071c, type: 3}
+    - {fileID: 2800000, guid: 4f955e97e7817a3419d8d88034f839a4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 55e5221099dbe6a4f88cc71e67bcdd4f, type: 3}
+  - {fileID: 21300000, guid: 0baee9240a3c3454abc18b2da8ea822e, type: 3}
+  - {fileID: 21300000, guid: 76d3f905080f706498e5df7b85be7885, type: 3}
+  - {fileID: 21300000, guid: 4f955e97e7817a3419d8d88034f839a4, type: 3}
+  - {fileID: 21300000, guid: 7db6c7cb50041144a88e08ac62bb7d02, type: 3}
+  - {fileID: 21300000, guid: 00e9280c3e1d24b4ab5ab9eb277671c5, type: 3}
+  - {fileID: 21300000, guid: 898997bc28b4c984e9a4d024366076b0, type: 3}
+  - {fileID: 21300000, guid: bbaa182db95ca014ebdb9c6c50de3a8e, type: 3}
+  - {fileID: 21300000, guid: 1b23abbdcab316e43be6a25e910e071c, type: 3}
+  - {fileID: 21300000, guid: 3fc541ef3dcd15d42b3bbe7320a59465, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hand
+  - Icon_Settings
+  - "\u041F\u0440\u044F\u043C\u043E\u0443\u0433\u043E\u043B\u044C\u043D\u0438\u043A_1"
+  - Icobn_Restart
+  - Square
+  - Fill
+  - transparent
+  - ProgressBar
+  - "\u0424\u0438\u0433\u0443\u0440\u0430_2"
+  - Icon_Exit
+  m_RenderDataMap: {}
+  m_Tag: Drop_The_Number_Atlas
+  m_IsVariant: 0

@@ -1,0 +1,11 @@
+﻿playy	Играть
+exitt	Выход
+soonn	Скоро
+exittomenu	Выход в Меню
+restart	Переиграть
+gameover	Конец Игре
+youwin	Победа!
+recordd	Рекорд
+levelss	Уровни
+notmorelevels	Вы достигли последнего уровня
+startover	Начать сначала

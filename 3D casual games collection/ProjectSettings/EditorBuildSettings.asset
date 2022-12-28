@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/My_Game/Menu/Scenes/Main_Menu.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/3D_Drop_the_Number/Scene/Mega_Cube.unity
+    guid: afd59a41f7efcf7458a2af894efc196c
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Helix_Jump/Scene/Levels/Helix_Jump_Level1.unity
+    guid: 370d1f440e8b1014985beca1009f59cd
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Voodoo's_Sticky_Block_Clone/Scene/Levels/Voodoos_Stickly_Block_Level1.unity
+    guid: 5e3dc476932ace747b137b033b39727f
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Roller_Splat/Scene/Roller_Splat.unity
+    guid: 8a7c45e39e0e1b242b39bdb134f28e74
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level0.unity
+    guid: 0132dcb7ab31dbd42807f1e3f7b5e808
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level1.unity
+    guid: 8f3f4a94950ae5f438085013db811b6d
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level2.unity
+    guid: 4e9694a70e48005408c5676fd59693c7
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level3.unity
+    guid: 3fe691caa1d57214ba5db5151b294777
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level4.unity
+    guid: 86fbd1166a9789b4dbad0565b64b9b69
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level5.unity
+    guid: b8c055d00950d6f47b7345e4b846717e
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level6.unity
+    guid: 5b29deb8ad8ba344f91e7d47359123f6
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level7.unity
+    guid: eda6cce038cf02f4b86f981afaf7d02a
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level8.unity
+    guid: ef2585274a24b1449bba2a4479518ef9
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level9.unity
+    guid: 02dca1111f1e18743b2b57bfcaee9476
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level10.unity
+    guid: 348077d9dd3ce4546a612f2c3256bbc8
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level11.unity
+    guid: 5439ea71e6054654f9d18e61a050d3e9
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level12.unity
+    guid: d70f897a47278094e84998804818b42b
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level13.unity
+    guid: 4720641163020c346b8c6fa5d2fdf5c7
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level14.unity
+    guid: 5a16c1fc3b788c24bb832e58ed14543f
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level15.unity
+    guid: 971ccec2982f24941bb5ce9d55d9fedb
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level16.unity
+    guid: 42cd5aa3eb263c642ada0f2d9a34753f
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level17.unity
+    guid: 8806e644da8eb5d45909132137aa6b91
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level18.unity
+    guid: 1d7a88b860ca8c94aa59e02cb23db38a
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level19.unity
+    guid: b9749d5d40ef87048b87b00644c9af3b
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level20.unity
+    guid: 13f7a25e565249e40baae072cf018fed
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level21.unity
+    guid: cb656bbe22bb5c5429497619be3e25d9
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level22.unity
+    guid: c090051e6232190449d2d939391027c1
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level23.unity
+    guid: cae8f168149a6b14b8542352c24a2f68
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level24.unity
+    guid: dd1af7e9b95ae5e4cae19594adb578b7
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level25.unity
+    guid: 71dd18633ad07de46922e5a3ae430908
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level26.unity
+    guid: 19d94714205190d4c95653ded62e02a4
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level27.unity
+    guid: de773abf2f1742845897f109ce9476df
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level28.unity
+    guid: e94d5cb2ad44d4c478313d6b9b0ec94d
+  - enabled: 1
+    path: Assets/My_Game/Casual_Games/Color_Hole/Scene/Levels/HoleVsColors_Level29.unity
+    guid: 72b3ddef8c7c4dd4c8d47e8e9c4e0b21
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: df0e1e9b9bad60b409b6807f107b270d,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 72dff61cbbbc0fb42804e354725b3897, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 36339a5515c542c419aa26466c63d037, type: 2}

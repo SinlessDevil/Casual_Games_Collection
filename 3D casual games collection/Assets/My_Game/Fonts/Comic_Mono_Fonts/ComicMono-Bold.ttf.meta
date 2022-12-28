@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9f24b1269ae5da94887928ac5239da9f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Comic Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 41885a0434b1d5b42b4621e7d5577380, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
